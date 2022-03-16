@@ -1,0 +1,4 @@
+maxminddb==2.2.0
+dnspython==2.2.1
+requests==2.27.1
+texttable==1.6.4
